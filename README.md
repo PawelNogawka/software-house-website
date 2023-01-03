@@ -1,6 +1,6 @@
 # software-house-website
 
-github pages link: https://pawelnogawka.github.io/software-house-website/
+Live sitek: https://pawelnogawka.github.io/software-house-website/
 
 While creating this website I learned how to create:
 - Cards with an interesting animation of buttons, using the clip-path property to create cards
